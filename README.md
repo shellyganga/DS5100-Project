@@ -6,7 +6,7 @@
 - **Version**: 0.1
 - **Author**: Shelly Schwartz
 - **Email**: tfk6ua@virginia.edu
-- **Description**: A Python package for running Monte Carlo simulations with customizable dice, a game system, and a comprehensive results analyzer.
+- **Description**: A Python package for running Monte Carlo simulations with customizable dice, a game system, and a results analyzer.
 - **Dependencies**: `numpy`, `pandas`
 
 ---
