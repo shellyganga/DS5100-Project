@@ -138,11 +138,11 @@ print(permutations)
 
 1. Clone the repository:
    ```bash
-   git clone <repository-link>
-   cd <repository-folder>
+   git clone https://github.com/shellyganga/DS5100-Project.git
+   cd DS5100-Project
    ```
 
-2. Install the package in editable mode:
+2. Install the package:
    ```bash
    pip install -e .
    ```
