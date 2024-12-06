@@ -2,7 +2,7 @@
 # Monte Carlo Simulation Package
 
 ## Metadata
-- **Package Name**: `montecarlo_package`
+- **Package Name**: `package`
 - **Version**: 0.1
 - **Author**: Shelly Schwartz
 - **Email**: tfk6ua@virginia.edu
