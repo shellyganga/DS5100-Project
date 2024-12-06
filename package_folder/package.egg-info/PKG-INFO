@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: package
+Version: 0.1
+Summary: Monte Carlo simulation package
+Author: Shelly Schwartz
+Author-email: tfk6ua@virginia.edu
+Requires-Dist: pandas
+Requires-Dist: numpy
