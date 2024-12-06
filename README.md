@@ -144,6 +144,7 @@ print(permutations)
 
 2. Install the package:
    ```bash
+   cd package_folder
    pip install -e .
    ```
 
